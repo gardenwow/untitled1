@@ -2,7 +2,7 @@ public class Program{
 
     public static void main(String[] args) {
 
-        Person kate = new Person("Kate", 32, "Baker Street", "+12334567");
+        Person kate = new Person("Kat123e", 32, "Baker Street", "+12334567");
         kate.displayName();     // норм, метод public
         kate.displayAge();      // норм, метод имеет модификатор по умолчанию
         kate.displayPhone();
